@@ -8,7 +8,7 @@
  5. Pronto! agora é jogar xadrez com algum amigo (ou você mesmo)
 
 
-######################################################################
+
 Esse projeto foi feito visando o aprendizado de Orientação a Objetos, utilizando herança, polimorfismo, encapsulamento e
 muita lógica de programação. O jogo também suporta as jogadas especiais: Roque, En passant e Promoção.
 
